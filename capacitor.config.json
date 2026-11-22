@@ -1,0 +1,15 @@
+{
+  "appId": "com.passada.app",
+  "appName": "Passada",
+  "webDir": "www",
+  "backgroundColor": "#0B0D0E",
+  "android": {
+    "allowMixedContent": false,
+    "useLegacyBridge": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
